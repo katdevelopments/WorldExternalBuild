@@ -1,4 +1,5 @@
 <div align="center">
+  <img width="200" src="https://useworld.xyz/logo.png" alt="World Client Logo" />
   <h1>World Client External</h1>
   <p>The external version of World Client for out-of-process modifications.</p>
 </div>
